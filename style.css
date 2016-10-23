@@ -2,13 +2,17 @@ body {
   background-color: #EEEEEE;
 margin: 0px;
 color:darkgray;
+color: #4B4B4B;
 
 }
+
+/* I can't remember why I made a fakeout body, but I'm too scared to take it out and put it's properties on the body. */
 
 #fake-out {
   margin:0px;
   width:1000px;
   text-align: center;
+
 }
 
 #all{
@@ -26,6 +30,7 @@ h3{
 
   padding-top: 30px;
   margin-left:0px;
+
 }
 
 #wood{
